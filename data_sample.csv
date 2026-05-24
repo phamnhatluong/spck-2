@@ -1,0 +1,10 @@
+date,industry,job_title,region,job_openings,avg_salary,salary_growth_rate,experience_level,remote_ratio,required_skills,competition_level,automation_risk,growth_score,demand_forecast
+2025-01-01,Công nghệ thông tin,AI Engineer,Hà Nội,150,2500,15,Junior,40,Python;PyTorch,Cao,10,95,Tăng mạnh
+2025-02-01,Công nghệ thông tin,AI Engineer,Hà Nội,180,2600,12,Junior,50,Python;PyTorch,Cao,10,96,Tăng mạnh
+2025-03-01,Công nghệ thông tin,AI Engineer,Hà Nội,210,2750,14,Senior,60,Python;LLM,Rất cao,5,98,Bùng nổ
+2025-01-01,Công nghệ thông tin,Data Analyst,TP.HCM,300,1200,8,Fresher,20,SQL;PowerBI,Trung bình,45,75,Tăng đều
+2025-02-01,Công nghệ thông tin,Data Analyst,TP.HCM,320,1250,5,Junior,20,SQL;Python,Cao,45,78,Tăng đều
+2025-03-01,Công nghệ thông tin,Data Analyst,TP.HCM,350,1300,6,Junior,30,SQL;Python,Cao,45,82,Tăng đều
+2025-01-01,Công nghệ thông tin,Telemarketing,Hà Nội,500,450,2,Fresher,10,Giao tiếp,Thấp,85,30,Giảm mạnh
+2025-02-01,Công nghệ thông tin,Telemarketing,Hà Nội,420,460,1,Fresher,10,Giao tiếp,Thấp,85,25,Giảm mạnh
+2025-03-01,Công nghệ thông tin,Telemarketing,Hà Nội,310,450,-2,Junior,10,Giao tiếp,Trung bình,88,15,Suy thoái
